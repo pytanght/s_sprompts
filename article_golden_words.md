@@ -115,7 +115,7 @@ Output **3–15 sets** of “Headline + Quote”.
 
 ### 5. Output Format (Must Follow Exactly)
 
-```
+
 ## 标题
 
 ### 小标题1
@@ -126,7 +126,7 @@ Output **3–15 sets** of “Headline + Quote”.
 
 ### 小标题3
 金句内容3
-```
+
 
 Strict rules:
 
